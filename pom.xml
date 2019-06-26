@@ -16,12 +16,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-
     <!--指定java版本-->
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
 
     <dependencies>
         <!-- 添加WEB支持 -->
